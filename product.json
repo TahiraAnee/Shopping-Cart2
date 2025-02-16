@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Chicken Salad",
+        "price": 520,
+        "image": "images/1.PNG",
+        "description": "A healthy and delicious chicken salad made with fresh lettuce, grilled chicken, cherry tomatoes, cucumbers, and a light dressing."
+    },
+    {
+        "id": 2,
+        "name": "Chicken Fry",
+        "price": 220,
+        "image": "images/2.PNG",
+        "description": "Crispy and golden-brown fried chicken, seasoned with special spices and served hot for a satisfying crunch."
+    },
+    {
+        "id": 3,
+        "name": "Fish Salad",
+        "price": 250,
+        "image": "images/3.PNG",
+        "description": "A refreshing fish salad featuring grilled fish fillet, mixed greens, cherry tomatoes, and a zesty lemon dressing."
+    },
+    {
+        "id": 4,
+        "name": "Soup",
+        "price": 420,
+        "image": "images/4.PNG",
+        "description": "A warm and comforting bowl of homemade soup made with fresh vegetables, tender meat, and aromatic herbs."
+    },
+    {
+        "id": 5,
+        "name": "Vegetable Salad",
+        "price": 120,
+        "image": "images/5.PNG",
+        "description": "A nutritious vegetable salad packed with fresh lettuce, carrots, cucumbers, bell peppers, and a tangy dressing."
+    },
+    {
+        "id": 6,
+        "name": "Pizza",
+        "price": 120,
+        "image": "images/6.PNG",
+        "description": "A classic cheesy pizza topped with fresh vegetables, flavorful tomato sauce, and a crispy crust."
+    }
+]
